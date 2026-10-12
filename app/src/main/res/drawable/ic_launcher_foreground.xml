@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main Newspaper Page Card (White with soft shadow) -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M27,29 H81 A6,6 0 0 1 87,35 V83 A6,6 0 0 1 81,89 H27 A6,6 0 0 1 21,83 V35 A6,6 0 0 1 27,29 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,27 H80 A6,6 0 0 1 86,33 V81 A6,6 0 0 1 80,87 H26 A6,6 0 0 1 20,81 V33 A6,6 0 0 1 26,27 Z" />
+
+    <!-- Google 4-Color Accent Header Bar -->
+    <path
+        android:fillColor="#4285F4"
+        android:pathData="M26,27 H41 V35 H20 V33 A6,6 0 0 1 26,27 Z" />
+    <path
+        android:fillColor="#EA4335"
+        android:pathData="M41,27 H56 V35 H41 Z" />
+    <path
+        android:fillColor="#FBBC05"
+        android:pathData="M56,27 H71 V35 H56 Z" />
+    <path
+        android:fillColor="#34A853"
+        android:pathData="M71,27 H80 A6,6 0 0 1 86,33 V35 H71 Z" />
+
+    <!-- Top Headline Lead Image Box (Blue tint) -->
+    <path
+        android:fillColor="#E8F0FE"
+        android:pathData="M28,41 H56 A4,4 0 0 1 60,45 V59 A4,4 0 0 1 56,63 H28 A4,4 0 0 1 24,59 V45 A4,4 0 0 1 28,41 Z" />
+    <!-- Image placeholder sparkle icon in lead image -->
+    <path
+        android:fillColor="#1A73E8"
+        android:pathData="M42,47 L44,52 L49,54 L44,56 L42,61 L40,56 L35,54 L40,52 Z" />
+
+    <!-- Headline text lines next to image -->
+    <path
+        android:fillColor="#202124"
+        android:pathData="M66,43 H79 A2,2 0 0 1 81,45 V47 A2,2 0 0 1 79,49 H66 A2,2 0 0 1 64,47 V45 A2,2 0 0 1 66,43 Z" />
+    <path
+        android:fillColor="#5F6368"
+        android:pathData="M66,51 H76 A2,2 0 0 1 78,53 V55 A2,2 0 0 1 76,57 H66 A2,2 0 0 1 64,55 V53 A2,2 0 0 1 66,51 Z" />
+    <path
+        android:fillColor="#4285F4"
+        android:pathData="M66,59 H73 A2,2 0 0 1 75,61 V62 A2,2 0 0 1 73,64 H66 A2,2 0 0 1 64,62 V61 A2,2 0 0 1 66,59 Z" />
+
+    <!-- Body article lines at bottom -->
+    <path
+        android:fillColor="#80868B"
+        android:pathData="M26,69 H80 A2,2 0 0 1 82,71 V72 A2,2 0 0 1 80,74 H26 A2,2 0 0 1 24,72 V71 A2,2 0 0 1 26,69 Z" />
+    <path
+        android:fillColor="#BDC1C6"
+        android:pathData="M26,77 H62 A2,2 0 0 1 64,79 V80 A2,2 0 0 1 62,82 H26 A2,2 0 0 1 24,80 V79 A2,2 0 0 1 26,77 Z" />
+</vector>

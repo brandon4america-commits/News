@@ -1,0 +1,8 @@
+{
+  "name": "Remix Google News",
+  "description": "Read the latest updates, announcements, and deep dives from Google with offline reading and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
